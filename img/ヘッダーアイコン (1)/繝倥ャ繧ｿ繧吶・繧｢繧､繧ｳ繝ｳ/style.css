@@ -1,0 +1,29 @@
+[class^="icon-"], [class*=" icon-"] {
+	display: inline-block;
+	color: #000000;
+	fill: currentColor;
+}
+.icon-授業 {
+	width: 32px;
+	height: 32px;
+}
+.icon-勉強計画 {
+	width: 32px;
+	height: 32px;
+}
+.icon-質問広場 {
+	width: 36px;
+	height: 32px;
+}
+.icon-マイページ {
+	width: 32px;
+	height: 32px;
+}
+.icon-stats {
+	width: 32px;
+	height: 32px;
+}
+.icon-検索 {
+	width: 32px;
+	height: 32px;
+}

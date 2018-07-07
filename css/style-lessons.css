@@ -1,0 +1,54 @@
+.navbar{
+    background-color: white;
+    margin-bottom: 0px;
+}
+
+
+.header_jugyou{
+    /* color:#f3fd69; */
+    font-size: 20px;
+    /* padding-top: 10px; */
+}
+
+.header_contact{
+    /* color:#f3fd69; */
+    font-size: 20px;
+    /* padding-top: 10px; */
+}
+
+.img-responsive{
+    
+}
+
+
+/* .yellow_line {background:rgba(0, 0, 0, 0) linear-gradient(transparent 90%, #ffffbc 0%) repeat scroll 0 0;}
+
+.green_line {background:linear-gradient(transparent 90%, #8ee67f 0%) ;}
+
+.blue_line{background:rgba(0, 0, 0, 0) linear-gradient(transparent 90%, #cce5ff 0%) repeat scroll 0 0;} */
+
+
+.tangen{
+    background-color: white;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+
+.tangen h1{
+    margin-bottom: 20px;
+}
+
+
+.thumbnail{
+    width: 20%;
+    margin-right: 5%;
+    /* margin-left: 10%; */
+}
+
+article{
+    display: flex;
+
+}
+
